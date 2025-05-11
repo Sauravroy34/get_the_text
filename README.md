@@ -7,7 +7,7 @@ model architecture was inspired from this paper => https://arxiv.org/pdf/1507.05
 
 
 ### Dataset used
-The dataset was made using trdg library => https://github.com/Belval/TextRecognitionDataGenerator whcih is a synthetic data genrator
+The dataset was made using trdg library => https://github.com/Belval/TextRecognitionDataGenerator which is a synthetic data genrator
 
 ### Results 
 ![test](https://github.com/user-attachments/assets/b1098ea7-1109-4f7f-93d6-747d752225b8)
