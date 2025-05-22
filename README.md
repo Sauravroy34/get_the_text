@@ -1,4 +1,13 @@
 # Get The Text
+How to run it <br>
+step 1) clone this repo 
+
+step 2) run streamlit run app.py
+
+
+![Screenshot from 2025-05-22 15-58-21](https://github.com/user-attachments/assets/defcbc59-e220-4d64-9405-352f2e008f08)
+
+
 A custom lstm and ctc ocr using pytorch 
 model architecture was inspired from this paper => https://arxiv.org/pdf/1507.05717 
 
